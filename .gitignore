@@ -8,5 +8,4 @@ build/
 dist/
 manopth_hassony2.egg-info/
 
-mano/models
 assets/mano_layer.svg
